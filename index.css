@@ -1,0 +1,28 @@
+#body{
+    font-family: "Press Start 2P";
+}
+#myInput{
+    margin: auto;
+    width: 500px;
+    height: 30px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: black;
+    display: block;
+    font-family: "Press Start 2P";
+}
+#pokediv{
+   padding-top: 50px;
+   display: flex;
+   justify-content: space-evenly;
+}
+#type{
+  
+ 
+}
+#photo{
+    
+}
+#head{
+  
+}
